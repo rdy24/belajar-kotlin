@@ -29,7 +29,7 @@ package com.dicoding.exam.latihan4
 fun vehicle() = mapOf<String, String>(
     "type" to "Motorcycle",
     "maxSpeed" to "230Km/s",
-    "maxTank" to "10Ltr"
+    "maxTank" to "100Ltr"
 )
 
 fun main() {
