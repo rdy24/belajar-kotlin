@@ -23,7 +23,7 @@ package com.dicoding.exam.latihan2
  */
 fun calculate(valueA: Int, valueB: Int, valueC: Int?): Int {
     val hasil = (valueA + (valueB - (valueC?: 50)))
-    return result(hasil)
+    return hasil
 }
 
 /**
